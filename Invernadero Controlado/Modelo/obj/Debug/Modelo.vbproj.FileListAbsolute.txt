@@ -1,0 +1,32 @@
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\bin\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\bin\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\obj\Debug\Modelo.Resources.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\obj\Debug\Modelo.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\obj\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\obj\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\bin\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\bin\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\obj\Debug\Modelo.Resources.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\obj\Debug\Modelo.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\obj\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\obj\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\bin\Debug\Modelo.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\bin\Debug\Modelo.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.Resources.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.vbproj.GenerateResource.Cache
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\bin\Debug\Modelo.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.Resources.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.pdb

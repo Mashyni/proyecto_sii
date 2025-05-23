@@ -1,0 +1,48 @@
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\bin\Debug\Controlador.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\bin\Debug\Controlador.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\bin\Debug\Controlador.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\bin\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\bin\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\obj\Debug\Controlador.vbprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\obj\Debug\Controlador.Resources.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\obj\Debug\Controlador.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\obj\Debug\Controlador.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\obj\Debug\Controlador.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Controlador\obj\Debug\Controlador.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\bin\Debug\Controlador.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\bin\Debug\Controlador.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\bin\Debug\Controlador.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\bin\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\bin\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\obj\Debug\Controlador.Resources.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\obj\Debug\Controlador.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\obj\Debug\Controlador.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Controlador\obj\Debug\Controlador.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\bin\Debug\Controlador.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\bin\Debug\Controlador.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\bin\Debug\Modelo.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\bin\Debug\Modelo.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\bin\Debug\Modelo.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbprojResolveAssemblyReference.cache
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.Resources.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbproj.GenerateResource.Cache
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\bin\Debug\Controlador.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\bin\Debug\Controlador.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\bin\Debug\Modelo.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.Resources.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.pdb

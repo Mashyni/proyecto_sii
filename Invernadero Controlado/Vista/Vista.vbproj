@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF06DFC6-A479-4E25-B78F-4C53DA5380F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Vista.FRM_Login</StartupObject>
+    <RootNamespace>Vista</RootNamespace>
+    <AssemblyName>Vista</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Vista.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Vista.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.ReportViewer.WebForms\12.0.0.0__89845dcd8080cc91\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.ReportViewer.WinForms\12.0.0.0__89845dcd8080cc91\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FRM_Control.designer.vb">
+      <DependentUpon>FRM_Control.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Control.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Login.designer.vb">
+      <DependentUpon>FRM_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Principal.designer.vb">
+      <DependentUpon>FRM_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Super.designer.vb">
+      <DependentUpon>FRM_Super.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Super.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_TipoPlanta.Designer.vb">
+      <DependentUpon>FRM_TipoPlanta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_TipoPlanta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Trabaj.designer.vb">
+      <DependentUpon>FRM_Trabaj.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Trabaj.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Usuario.designer.vb">
+      <DependentUpon>FRM_Usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Usuario2.designer.vb">
+      <DependentUpon>FRM_Usuario2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Usuario2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FRM_Control.resx">
+      <DependentUpon>FRM_Control.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Login.resx">
+      <DependentUpon>FRM_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Principal.resx">
+      <DependentUpon>FRM_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Super.resx">
+      <DependentUpon>FRM_Super.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_TipoPlanta.resx">
+      <DependentUpon>FRM_TipoPlanta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Trabaj.resx">
+      <DependentUpon>FRM_Trabaj.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Usuario.resx">
+      <DependentUpon>FRM_Usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Usuario2.resx">
+      <DependentUpon>FRM_Usuario2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controlador\Controlador.vbproj">
+      <Project>{d3268d32-ba02-42fc-9ee6-9f50bd7b8950}</Project>
+      <Name>Controlador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelo\Modelo.vbproj">
+      <Project>{a2b245c0-0883-4a5e-b3a0-f2948f1bc9d6}</Project>
+      <Name>Modelo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,182 @@
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Vista.exe.config
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Vista.exe
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Vista.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Vista.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.Resources.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.exe
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.vbprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.FRM_Usuario.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Controlador.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Controlador.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Controlador.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\bin\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.FRM_Principal.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.FRM_Login.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.FRM_Super.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\ALab_1\Vista\obj\Debug\Vista.FRM_Trabaj.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.exe.config
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.exe
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.exe
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Controlador.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Controlador.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Controlador.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.vbprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Login.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Principal.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Super.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Trabaj.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.Resources.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Control.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC INFORMATICA 5TO\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario2.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.exe.config
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.exe
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.exe
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Vista.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Controlador.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Modelo.dll
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Controlador.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Controlador.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Modelo.pdb
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\bin\Debug\Modelo.xml
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.vbprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Control.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Login.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Principal.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Super.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Trabaj.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario2.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.Resources.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.reporte.resources
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\RdlCompile.cache
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\RdlCompile.compiled
+C:\Users\WINDOWS 10\Desktop\CARRERA DE INFOR. IND\DOC 5TO INFORMATICA I-2025\SII-500\LABORATORIOS\ALab_1\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_TipoPlanta.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.exe.config
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.exe
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.vbprojResolveAssemblyReference.cache
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Control.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Login.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Principal.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Super.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_TipoPlanta.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Trabaj.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario2.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.Resources.resources
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.vbproj.GenerateResource.Cache
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.exe
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Controlador.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Modelo.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Controlador.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Controlador.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Modelo.pdb
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\Modelo.xml
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ERIK-PC\Desktop\Invernadero Controlado\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.exe.config
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.exe
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Vista.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Controlador.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Controlador.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Controlador.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\Modelo.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Control.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Login.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Principal.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Super.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_TipoPlanta.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Trabaj.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario2.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.Resources.resources
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.exe
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.xml
+C:\Users\Usuario\Desktop\Invernadero Controlado\Vista\obj\Debug\Vista.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Vista.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Vista.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Vista.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Vista.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Controlador.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Modelo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Controlador.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Controlador.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\Modelo.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Control.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Login.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Principal.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Super.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_TipoPlanta.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Trabaj.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.FRM_Usuario2.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.Resources.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.vbproj.GenerateResource.Cache
