@@ -43,9 +43,10 @@ Partial Class frmVentas
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 15)
+        Me.Label1.Location = New System.Drawing.Point(18, 23)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(42, 13)
+        Me.Label1.Size = New System.Drawing.Size(62, 20)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Cliente:"
         '
@@ -53,17 +54,19 @@ Partial Class frmVentas
         '
         Me.cboCliente.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cboCliente.FormattingEnabled = True
-        Me.cboCliente.Location = New System.Drawing.Point(60, 12)
+        Me.cboCliente.Location = New System.Drawing.Point(90, 18)
+        Me.cboCliente.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.cboCliente.Name = "cboCliente"
-        Me.cboCliente.Size = New System.Drawing.Size(250, 21)
+        Me.cboCliente.Size = New System.Drawing.Size(188, 28)
         Me.cboCliente.TabIndex = 1
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(12, 42)
+        Me.Label2.Location = New System.Drawing.Point(18, 65)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(40, 13)
+        Me.Label2.Size = New System.Drawing.Size(58, 20)
         Me.Label2.TabIndex = 2
         Me.Label2.Text = "Planta:"
         '
@@ -71,52 +74,58 @@ Partial Class frmVentas
         '
         Me.cboPlanta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cboPlanta.FormattingEnabled = True
-        Me.cboPlanta.Location = New System.Drawing.Point(60, 39)
+        Me.cboPlanta.Location = New System.Drawing.Point(90, 60)
+        Me.cboPlanta.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.cboPlanta.Name = "cboPlanta"
-        Me.cboPlanta.Size = New System.Drawing.Size(250, 21)
+        Me.cboPlanta.Size = New System.Drawing.Size(188, 28)
         Me.cboPlanta.TabIndex = 3
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(316, 42)
+        Me.Label3.Location = New System.Drawing.Point(309, 65)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(40, 13)
+        Me.Label3.Size = New System.Drawing.Size(57, 20)
         Me.Label3.TabIndex = 4
         Me.Label3.Text = "Precio:"
         '
         'txtPrecio
         '
-        Me.txtPrecio.Location = New System.Drawing.Point(362, 39)
+        Me.txtPrecio.Location = New System.Drawing.Point(378, 60)
+        Me.txtPrecio.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtPrecio.Name = "txtPrecio"
         Me.txtPrecio.ReadOnly = True
-        Me.txtPrecio.Size = New System.Drawing.Size(100, 20)
+        Me.txtPrecio.Size = New System.Drawing.Size(148, 26)
         Me.txtPrecio.TabIndex = 5
         Me.txtPrecio.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(468, 42)
+        Me.Label4.Location = New System.Drawing.Point(537, 65)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(52, 13)
+        Me.Label4.Size = New System.Drawing.Size(77, 20)
         Me.Label4.TabIndex = 6
         Me.Label4.Text = "Cantidad:"
         '
         'txtCantidad
         '
-        Me.txtCantidad.Location = New System.Drawing.Point(526, 39)
+        Me.txtCantidad.Location = New System.Drawing.Point(624, 60)
+        Me.txtCantidad.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtCantidad.Name = "txtCantidad"
-        Me.txtCantidad.Size = New System.Drawing.Size(50, 20)
+        Me.txtCantidad.Size = New System.Drawing.Size(73, 26)
         Me.txtCantidad.TabIndex = 7
         Me.txtCantidad.Text = "1"
         Me.txtCantidad.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'btnAgregar
         '
-        Me.btnAgregar.Location = New System.Drawing.Point(582, 37)
+        Me.btnAgregar.Location = New System.Drawing.Point(708, 57)
+        Me.btnAgregar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnAgregar.Name = "btnAgregar"
-        Me.btnAgregar.Size = New System.Drawing.Size(75, 23)
+        Me.btnAgregar.Size = New System.Drawing.Size(112, 35)
         Me.btnAgregar.TabIndex = 8
         Me.btnAgregar.Text = "Agregar"
         Me.btnAgregar.UseVisualStyleBackColor = True
@@ -126,64 +135,70 @@ Partial Class frmVentas
         Me.dgvDetalle.AllowUserToAddRows = False
         Me.dgvDetalle.AllowUserToDeleteRows = False
         Me.dgvDetalle.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgvDetalle.Location = New System.Drawing.Point(12, 66)
+        Me.dgvDetalle.Location = New System.Drawing.Point(18, 102)
+        Me.dgvDetalle.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.dgvDetalle.Name = "dgvDetalle"
         Me.dgvDetalle.ReadOnly = True
         Me.dgvDetalle.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgvDetalle.Size = New System.Drawing.Size(645, 200)
+        Me.dgvDetalle.Size = New System.Drawing.Size(802, 251)
         Me.dgvDetalle.TabIndex = 9
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(522, 269)
+        Me.Label5.Location = New System.Drawing.Point(620, 383)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(34, 13)
+        Me.Label5.Size = New System.Drawing.Size(48, 20)
         Me.Label5.TabIndex = 10
         Me.Label5.Text = "Total:"
         '
         'txtTotal
         '
-        Me.txtTotal.Location = New System.Drawing.Point(562, 266)
+        Me.txtTotal.Location = New System.Drawing.Point(680, 378)
+        Me.txtTotal.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtTotal.Name = "txtTotal"
         Me.txtTotal.ReadOnly = True
-        Me.txtTotal.Size = New System.Drawing.Size(95, 20)
+        Me.txtTotal.Size = New System.Drawing.Size(140, 26)
         Me.txtTotal.TabIndex = 11
         Me.txtTotal.Text = "0.00"
         Me.txtTotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'btnGuardar
         '
-        Me.btnGuardar.Location = New System.Drawing.Point(501, 292)
+        Me.btnGuardar.Location = New System.Drawing.Point(589, 418)
+        Me.btnGuardar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnGuardar.Name = "btnGuardar"
-        Me.btnGuardar.Size = New System.Drawing.Size(75, 23)
+        Me.btnGuardar.Size = New System.Drawing.Size(112, 35)
         Me.btnGuardar.TabIndex = 12
         Me.btnGuardar.Text = "Guardar"
         Me.btnGuardar.UseVisualStyleBackColor = True
         '
         'btnCancelar
         '
-        Me.btnCancelar.Location = New System.Drawing.Point(582, 292)
+        Me.btnCancelar.Location = New System.Drawing.Point(710, 418)
+        Me.btnCancelar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnCancelar.Name = "btnCancelar"
-        Me.btnCancelar.Size = New System.Drawing.Size(75, 23)
+        Me.btnCancelar.Size = New System.Drawing.Size(112, 35)
         Me.btnCancelar.TabIndex = 13
         Me.btnCancelar.Text = "Cancelar"
         Me.btnCancelar.UseVisualStyleBackColor = True
         '
         'btnQuitar
         '
-        Me.btnQuitar.Location = New System.Drawing.Point(663, 66)
+        Me.btnQuitar.Location = New System.Drawing.Point(828, 102)
+        Me.btnQuitar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnQuitar.Name = "btnQuitar"
-        Me.btnQuitar.Size = New System.Drawing.Size(75, 23)
+        Me.btnQuitar.Size = New System.Drawing.Size(112, 35)
         Me.btnQuitar.TabIndex = 14
         Me.btnQuitar.Text = "Quitar"
         Me.btnQuitar.UseVisualStyleBackColor = True
         '
         'frmVentas
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(750, 327)
+        Me.ClientSize = New System.Drawing.Size(952, 465)
         Me.Controls.Add(Me.btnQuitar)
         Me.Controls.Add(Me.btnCancelar)
         Me.Controls.Add(Me.btnGuardar)
@@ -199,6 +214,8 @@ Partial Class frmVentas
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.cboCliente)
         Me.Controls.Add(Me.Label1)
+        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "frmVentas"
         Me.Text = "Registro de Ventas"
         CType(Me.dgvDetalle, System.ComponentModel.ISupportInitialize).EndInit()

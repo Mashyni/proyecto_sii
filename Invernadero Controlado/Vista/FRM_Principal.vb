@@ -23,7 +23,7 @@
 
     Private Sub btnUsuario_Click(sender As Object, e As EventArgs) Handles btnUsuario.Click
         Dim formUsuario As New FRM_Usuario()
-        formUsuario.Size = New Size(1400, 500)
+        formUsuario.Size = New Size(800, 600)
         formUsuario.StartPosition = FormStartPosition.CenterParent
         formUsuario.ShowDialog(Me) ' ✅ Modal, bloquea el principal
     End Sub
@@ -31,17 +31,20 @@
 
 
     Private Sub btnPlantas_Click(sender As Object, e As EventArgs) Handles btnPlantas.Click
-
+        Dim formPlantas As New frmPrincipal()
+        formPlantas.Size = New Size(1000, 700)
+        formPlantas.StartPosition = FormStartPosition.CenterParent
+        formPlantas.ShowDialog(Me)
     End Sub
 
     Private Sub btnControlInvernadero_Click(sender As Object, e As EventArgs) Handles btnControlInvernadero.Click
         Dim formUsuario As New FRM_InvernaderoControl()
-        formUsuario.Size = New Size(1400, 700)
+        formUsuario.Size = New Size(800, 600)
         formUsuario.StartPosition = FormStartPosition.CenterParent
         formUsuario.ShowDialog(Me) ' ✅ Modal, bloquea el principal
     End Sub
 
-    Private Sub btnControlAsistencia_Click(sender As Object, e As EventArgs) Handles btnControlAsistencia.Click
+    Private Sub btnControlAsistencia_Click(sender As Object, e As EventArgs) 
 
     End Sub
 

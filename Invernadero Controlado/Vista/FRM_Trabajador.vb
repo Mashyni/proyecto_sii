@@ -31,7 +31,10 @@
 
 
     Private Sub btnPlantas_Click(sender As Object, e As EventArgs) Handles btnPlantas.Click
-
+        Dim formPlantas As New frmPrincipal()
+        formPlantas.Size = New Size(1000, 700)
+        formPlantas.StartPosition = FormStartPosition.CenterParent
+        formPlantas.ShowDialog(Me)
     End Sub
 
     Private Sub btnControlInvernadero_Click(sender As Object, e As EventArgs)
@@ -39,7 +42,10 @@
     End Sub
 
     Private Sub btnControlAsistencia_Click(sender As Object, e As EventArgs) Handles btnControlAsistencia.Click
-
+        Dim formPlantas As New frmPrincipal()
+        formPlantas.Size = New Size(1000, 700)
+        formPlantas.StartPosition = FormStartPosition.CenterParent
+        formPlantas.ShowDialog(Me)
     End Sub
 
     Private Sub ToolStripButton1_Click(sender As Object, e As EventArgs) Handles ToolStripButton1.Click

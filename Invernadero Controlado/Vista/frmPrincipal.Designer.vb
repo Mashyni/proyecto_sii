@@ -38,7 +38,8 @@ Partial Class frmPrincipal
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CatalogosToolStripMenuItem, Me.OperacionesToolStripMenuItem, Me.ReportesToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(800, 24)
+        Me.MenuStrip1.Padding = New System.Windows.Forms.Padding(9, 3, 0, 3)
+        Me.MenuStrip1.Size = New System.Drawing.Size(701, 25)
         Me.MenuStrip1.TabIndex = 1
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -46,54 +47,56 @@ Partial Class frmPrincipal
         '
         Me.CatalogosToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CategoriasToolStripMenuItem, Me.PlantasToolStripMenuItem, Me.ClientesToolStripMenuItem})
         Me.CatalogosToolStripMenuItem.Name = "CatalogosToolStripMenuItem"
-        Me.CatalogosToolStripMenuItem.Size = New System.Drawing.Size(50, 20)
+        Me.CatalogosToolStripMenuItem.Size = New System.Drawing.Size(50, 19)
         Me.CatalogosToolStripMenuItem.Text = "Cruds"
         '
         'CategoriasToolStripMenuItem
         '
         Me.CategoriasToolStripMenuItem.Name = "CategoriasToolStripMenuItem"
-        Me.CategoriasToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.CategoriasToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
         Me.CategoriasToolStripMenuItem.Text = "Categorías"
         '
         'PlantasToolStripMenuItem
         '
         Me.PlantasToolStripMenuItem.Name = "PlantasToolStripMenuItem"
-        Me.PlantasToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.PlantasToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
         Me.PlantasToolStripMenuItem.Text = "Plantas"
         '
         'ClientesToolStripMenuItem
         '
         Me.ClientesToolStripMenuItem.Name = "ClientesToolStripMenuItem"
-        Me.ClientesToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.ClientesToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
         Me.ClientesToolStripMenuItem.Text = "Clientes"
         '
         'OperacionesToolStripMenuItem
         '
         Me.OperacionesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.VentasToolStripMenuItem})
         Me.OperacionesToolStripMenuItem.Name = "OperacionesToolStripMenuItem"
-        Me.OperacionesToolStripMenuItem.Size = New System.Drawing.Size(85, 20)
+        Me.OperacionesToolStripMenuItem.Size = New System.Drawing.Size(85, 19)
         Me.OperacionesToolStripMenuItem.Text = "Operaciones"
         '
         'VentasToolStripMenuItem
         '
         Me.VentasToolStripMenuItem.Name = "VentasToolStripMenuItem"
-        Me.VentasToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.VentasToolStripMenuItem.Size = New System.Drawing.Size(108, 22)
         Me.VentasToolStripMenuItem.Text = "Ventas"
         '
         'ReportesToolStripMenuItem
         '
         Me.ReportesToolStripMenuItem.Name = "ReportesToolStripMenuItem"
-        Me.ReportesToolStripMenuItem.Size = New System.Drawing.Size(65, 20)
+        Me.ReportesToolStripMenuItem.Size = New System.Drawing.Size(65, 19)
         Me.ReportesToolStripMenuItem.Text = "Reportes"
         '
         'frmPrincipal
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(701, 327)
         Me.Controls.Add(Me.MenuStrip1)
+        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.IsMdiContainer = True
         Me.MainMenuStrip = Me.MenuStrip1
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "frmPrincipal"
         Me.Text = "Sistema de Vivero de Plantas"
         Me.MenuStrip1.ResumeLayout(False)

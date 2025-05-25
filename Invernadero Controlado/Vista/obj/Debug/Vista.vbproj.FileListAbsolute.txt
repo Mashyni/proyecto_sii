@@ -180,3 +180,11 @@ C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\
 C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.exe
 C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.xml
 C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmCategoriaAE.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmCategorias.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmClienteAE.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmClientes.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmPlantaAE.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmPlantas.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmPrincipal.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Vista\obj\Debug\Vista.frmVentas.resources

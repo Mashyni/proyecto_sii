@@ -34,8 +34,6 @@ Partial Class FRM_Principal
         Me.Label4 = New System.Windows.Forms.Label()
         Me.btnControlInvernadero = New System.Windows.Forms.Button()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.btnControlAsistencia = New System.Windows.Forms.Button()
-        Me.Label6 = New System.Windows.Forms.Label()
         Me.lbldate = New System.Windows.Forms.Label()
         Me.lbltime = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
@@ -131,7 +129,7 @@ Partial Class FRM_Principal
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(302, 41)
         Me.Label4.TabIndex = 3
-        Me.Label4.Text = "Gestion de Plantas"
+        Me.Label4.Text = "Gestion de Ventas"
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'btnControlInvernadero
@@ -156,29 +154,6 @@ Partial Class FRM_Principal
         Me.Label5.TabIndex = 3
         Me.Label5.Text = "Control del Invernadero"
         Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        '
-        'btnControlAsistencia
-        '
-        Me.btnControlAsistencia.BackColor = System.Drawing.Color.Transparent
-        Me.btnControlAsistencia.BackgroundImage = CType(resources.GetObject("btnControlAsistencia.BackgroundImage"), System.Drawing.Image)
-        Me.btnControlAsistencia.Location = New System.Drawing.Point(579, 417)
-        Me.btnControlAsistencia.Margin = New System.Windows.Forms.Padding(2)
-        Me.btnControlAsistencia.Name = "btnControlAsistencia"
-        Me.btnControlAsistencia.Size = New System.Drawing.Size(224, 223)
-        Me.btnControlAsistencia.TabIndex = 2
-        Me.btnControlAsistencia.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText
-        Me.btnControlAsistencia.UseVisualStyleBackColor = False
-        '
-        'Label6
-        '
-        Me.Label6.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 19.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(560, 642)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(302, 41)
-        Me.Label6.TabIndex = 3
-        Me.Label6.Text = "Control Asistencia"
-        Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'lbldate
         '
@@ -236,11 +211,9 @@ Partial Class FRM_Principal
         Me.Controls.Add(Me.lbltime)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
-        Me.Controls.Add(Me.btnControlAsistencia)
         Me.Controls.Add(Me.btnControlInvernadero)
         Me.Controls.Add(Me.btnPlantas)
         Me.Controls.Add(Me.btnUsuario)
@@ -268,8 +241,6 @@ Partial Class FRM_Principal
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents btnControlInvernadero As System.Windows.Forms.Button
     Friend WithEvents Label5 As System.Windows.Forms.Label
-    Friend WithEvents btnControlAsistencia As System.Windows.Forms.Button
-    Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents lbldate As System.Windows.Forms.Label
     Friend WithEvents lbltime As System.Windows.Forms.Label
     Friend WithEvents Label7 As System.Windows.Forms.Label

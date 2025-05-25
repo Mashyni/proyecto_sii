@@ -33,65 +33,73 @@ Partial Class frmCategoriaAE
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 15)
+        Me.Label1.Location = New System.Drawing.Point(18, 23)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(47, 13)
+        Me.Label1.Size = New System.Drawing.Size(69, 20)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Nombre:"
         '
         'txtNombre
         '
-        Me.txtNombre.Location = New System.Drawing.Point(65, 12)
+        Me.txtNombre.Location = New System.Drawing.Point(98, 18)
+        Me.txtNombre.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtNombre.Name = "txtNombre"
-        Me.txtNombre.Size = New System.Drawing.Size(200, 20)
+        Me.txtNombre.Size = New System.Drawing.Size(298, 26)
         Me.txtNombre.TabIndex = 1
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(12, 41)
+        Me.Label2.Location = New System.Drawing.Point(18, 63)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(66, 13)
+        Me.Label2.Size = New System.Drawing.Size(96, 20)
         Me.Label2.TabIndex = 2
         Me.Label2.Text = "Descripción:"
         '
         'txtDescripcion
         '
-        Me.txtDescripcion.Location = New System.Drawing.Point(15, 57)
+        Me.txtDescripcion.Location = New System.Drawing.Point(22, 88)
+        Me.txtDescripcion.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtDescripcion.Multiline = True
         Me.txtDescripcion.Name = "txtDescripcion"
-        Me.txtDescripcion.Size = New System.Drawing.Size(250, 100)
+        Me.txtDescripcion.Size = New System.Drawing.Size(373, 152)
         Me.txtDescripcion.TabIndex = 3
         '
         'btnAceptar
         '
-        Me.btnAceptar.Location = New System.Drawing.Point(109, 163)
+        Me.btnAceptar.Location = New System.Drawing.Point(164, 251)
+        Me.btnAceptar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnAceptar.Name = "btnAceptar"
-        Me.btnAceptar.Size = New System.Drawing.Size(75, 23)
+        Me.btnAceptar.Size = New System.Drawing.Size(112, 35)
         Me.btnAceptar.TabIndex = 4
         Me.btnAceptar.Text = "Aceptar"
         Me.btnAceptar.UseVisualStyleBackColor = True
         '
         'btnCancelar
         '
-        Me.btnCancelar.Location = New System.Drawing.Point(190, 163)
+        Me.btnCancelar.Location = New System.Drawing.Point(285, 251)
+        Me.btnCancelar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnCancelar.Name = "btnCancelar"
-        Me.btnCancelar.Size = New System.Drawing.Size(75, 23)
+        Me.btnCancelar.Size = New System.Drawing.Size(112, 35)
         Me.btnCancelar.TabIndex = 5
         Me.btnCancelar.Text = "Cancelar"
         Me.btnCancelar.UseVisualStyleBackColor = True
         '
         'frmCategoriaAE
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(277, 198)
+        Me.ClientSize = New System.Drawing.Size(416, 305)
         Me.Controls.Add(Me.btnCancelar)
         Me.Controls.Add(Me.btnAceptar)
         Me.Controls.Add(Me.txtDescripcion)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.txtNombre)
         Me.Controls.Add(Me.Label1)
+        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "frmCategoriaAE"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Categoría"

@@ -34,49 +34,55 @@ Partial Class frmCategorias
         Me.dgvCategorias.AllowUserToAddRows = False
         Me.dgvCategorias.AllowUserToDeleteRows = False
         Me.dgvCategorias.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgvCategorias.Location = New System.Drawing.Point(12, 12)
+        Me.dgvCategorias.Location = New System.Drawing.Point(18, 18)
+        Me.dgvCategorias.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.dgvCategorias.Name = "dgvCategorias"
         Me.dgvCategorias.ReadOnly = True
         Me.dgvCategorias.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgvCategorias.Size = New System.Drawing.Size(560, 300)
+        Me.dgvCategorias.Size = New System.Drawing.Size(522, 217)
         Me.dgvCategorias.TabIndex = 0
         '
         'btnNuevo
         '
-        Me.btnNuevo.Location = New System.Drawing.Point(12, 318)
+        Me.btnNuevo.Location = New System.Drawing.Point(18, 245)
+        Me.btnNuevo.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnNuevo.Name = "btnNuevo"
-        Me.btnNuevo.Size = New System.Drawing.Size(75, 23)
+        Me.btnNuevo.Size = New System.Drawing.Size(112, 35)
         Me.btnNuevo.TabIndex = 1
         Me.btnNuevo.Text = "Nuevo"
         Me.btnNuevo.UseVisualStyleBackColor = True
         '
         'btnEditar
         '
-        Me.btnEditar.Location = New System.Drawing.Point(93, 318)
+        Me.btnEditar.Location = New System.Drawing.Point(140, 245)
+        Me.btnEditar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnEditar.Name = "btnEditar"
-        Me.btnEditar.Size = New System.Drawing.Size(75, 23)
+        Me.btnEditar.Size = New System.Drawing.Size(112, 35)
         Me.btnEditar.TabIndex = 2
         Me.btnEditar.Text = "Editar"
         Me.btnEditar.UseVisualStyleBackColor = True
         '
         'btnEliminar
         '
-        Me.btnEliminar.Location = New System.Drawing.Point(174, 318)
+        Me.btnEliminar.Location = New System.Drawing.Point(261, 245)
+        Me.btnEliminar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnEliminar.Name = "btnEliminar"
-        Me.btnEliminar.Size = New System.Drawing.Size(75, 23)
+        Me.btnEliminar.Size = New System.Drawing.Size(112, 35)
         Me.btnEliminar.TabIndex = 3
         Me.btnEliminar.Text = "Eliminar"
         Me.btnEliminar.UseVisualStyleBackColor = True
         '
         'frmCategorias
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(584, 351)
+        Me.ClientSize = New System.Drawing.Size(564, 291)
         Me.Controls.Add(Me.btnEliminar)
         Me.Controls.Add(Me.btnEditar)
         Me.Controls.Add(Me.btnNuevo)
         Me.Controls.Add(Me.dgvCategorias)
+        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "frmCategorias"
         Me.Text = "Gestión de Categorías"
         CType(Me.dgvCategorias, System.ComponentModel.ISupportInitialize).EndInit()

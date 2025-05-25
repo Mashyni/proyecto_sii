@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AF06DFC6-A479-4E25-B78F-4C53DA5380F0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Vista.frmPrincipal</StartupObject>
+    <StartupObject>Vista.FRM_Login</StartupObject>
     <RootNamespace>Vista</RootNamespace>
     <AssemblyName>Vista</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -193,6 +193,30 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmCategoriaAE.resx">
+      <DependentUpon>frmCategoriaAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategorias.resx">
+      <DependentUpon>frmCategorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClienteAE.resx">
+      <DependentUpon>frmClienteAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClientes.resx">
+      <DependentUpon>frmClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantaAE.resx">
+      <DependentUpon>frmPlantaAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlantas.resx">
+      <DependentUpon>frmPlantas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVentas.resx">
+      <DependentUpon>frmVentas.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FRM_InvernaderoControl.resx">
       <DependentUpon>FRM_InvernaderoControl.vb</DependentUpon>
     </EmbeddedResource>

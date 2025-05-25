@@ -39,106 +39,118 @@ Partial Class frmClienteAE
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 15)
+        Me.Label1.Location = New System.Drawing.Point(18, 23)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(47, 13)
+        Me.Label1.Size = New System.Drawing.Size(69, 20)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Nombre:"
         '
         'txtNombre
         '
-        Me.txtNombre.Location = New System.Drawing.Point(65, 12)
+        Me.txtNombre.Location = New System.Drawing.Point(98, 18)
+        Me.txtNombre.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtNombre.Name = "txtNombre"
-        Me.txtNombre.Size = New System.Drawing.Size(200, 20)
+        Me.txtNombre.Size = New System.Drawing.Size(298, 26)
         Me.txtNombre.TabIndex = 1
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(12, 41)
+        Me.Label2.Location = New System.Drawing.Point(18, 63)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(47, 13)
+        Me.Label2.Size = New System.Drawing.Size(69, 20)
         Me.Label2.TabIndex = 2
         Me.Label2.Text = "Apellido:"
         '
         'txtApellido
         '
-        Me.txtApellido.Location = New System.Drawing.Point(65, 38)
+        Me.txtApellido.Location = New System.Drawing.Point(98, 58)
+        Me.txtApellido.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtApellido.Name = "txtApellido"
-        Me.txtApellido.Size = New System.Drawing.Size(200, 20)
+        Me.txtApellido.Size = New System.Drawing.Size(298, 26)
         Me.txtApellido.TabIndex = 3
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(12, 67)
+        Me.Label3.Location = New System.Drawing.Point(18, 103)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(55, 13)
+        Me.Label3.Size = New System.Drawing.Size(79, 20)
         Me.Label3.TabIndex = 4
         Me.Label3.Text = "Dirección:"
         '
         'txtDireccion
         '
-        Me.txtDireccion.Location = New System.Drawing.Point(73, 64)
+        Me.txtDireccion.Location = New System.Drawing.Point(110, 98)
+        Me.txtDireccion.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtDireccion.Name = "txtDireccion"
-        Me.txtDireccion.Size = New System.Drawing.Size(192, 20)
+        Me.txtDireccion.Size = New System.Drawing.Size(286, 26)
         Me.txtDireccion.TabIndex = 5
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(12, 93)
+        Me.Label4.Location = New System.Drawing.Point(18, 143)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(52, 13)
+        Me.Label4.Size = New System.Drawing.Size(75, 20)
         Me.Label4.TabIndex = 6
         Me.Label4.Text = "Teléfono:"
         '
         'txtTelefono
         '
-        Me.txtTelefono.Location = New System.Drawing.Point(70, 90)
+        Me.txtTelefono.Location = New System.Drawing.Point(105, 138)
+        Me.txtTelefono.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtTelefono.Name = "txtTelefono"
-        Me.txtTelefono.Size = New System.Drawing.Size(195, 20)
+        Me.txtTelefono.Size = New System.Drawing.Size(290, 26)
         Me.txtTelefono.TabIndex = 7
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(12, 119)
+        Me.Label5.Location = New System.Drawing.Point(18, 183)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(35, 13)
+        Me.Label5.Size = New System.Drawing.Size(52, 20)
         Me.Label5.TabIndex = 8
         Me.Label5.Text = "Email:"
         '
         'txtEmail
         '
-        Me.txtEmail.Location = New System.Drawing.Point(53, 116)
+        Me.txtEmail.Location = New System.Drawing.Point(80, 178)
+        Me.txtEmail.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtEmail.Name = "txtEmail"
-        Me.txtEmail.Size = New System.Drawing.Size(212, 20)
+        Me.txtEmail.Size = New System.Drawing.Size(316, 26)
         Me.txtEmail.TabIndex = 9
         '
         'btnAceptar
         '
-        Me.btnAceptar.Location = New System.Drawing.Point(109, 142)
+        Me.btnAceptar.Location = New System.Drawing.Point(164, 218)
+        Me.btnAceptar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnAceptar.Name = "btnAceptar"
-        Me.btnAceptar.Size = New System.Drawing.Size(75, 23)
+        Me.btnAceptar.Size = New System.Drawing.Size(112, 35)
         Me.btnAceptar.TabIndex = 10
         Me.btnAceptar.Text = "Aceptar"
         Me.btnAceptar.UseVisualStyleBackColor = True
         '
         'btnCancelar
         '
-        Me.btnCancelar.Location = New System.Drawing.Point(190, 142)
+        Me.btnCancelar.Location = New System.Drawing.Point(285, 218)
+        Me.btnCancelar.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnCancelar.Name = "btnCancelar"
-        Me.btnCancelar.Size = New System.Drawing.Size(75, 23)
+        Me.btnCancelar.Size = New System.Drawing.Size(112, 35)
         Me.btnCancelar.TabIndex = 11
         Me.btnCancelar.Text = "Cancelar"
         Me.btnCancelar.UseVisualStyleBackColor = True
         '
         'frmClienteAE
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(277, 177)
+        Me.ClientSize = New System.Drawing.Size(416, 272)
         Me.Controls.Add(Me.btnCancelar)
         Me.Controls.Add(Me.btnAceptar)
         Me.Controls.Add(Me.txtEmail)
@@ -151,6 +163,8 @@ Partial Class frmClienteAE
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.txtNombre)
         Me.Controls.Add(Me.Label1)
+        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "frmClienteAE"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Cliente"
