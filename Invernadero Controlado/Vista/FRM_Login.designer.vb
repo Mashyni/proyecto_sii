@@ -47,10 +47,9 @@ Partial Class FRM_Login
         '
         Me.lbldate.AutoSize = True
         Me.lbldate.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbldate.Location = New System.Drawing.Point(127, 486)
-        Me.lbldate.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.lbldate.Location = New System.Drawing.Point(95, 395)
         Me.lbldate.Name = "lbldate"
-        Me.lbldate.Size = New System.Drawing.Size(106, 40)
+        Me.lbldate.Size = New System.Drawing.Size(85, 32)
         Me.lbldate.TabIndex = 20
         Me.lbldate.Text = "Time :"
         '
@@ -58,10 +57,9 @@ Partial Class FRM_Login
         '
         Me.lbltime.AutoSize = True
         Me.lbltime.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbltime.Location = New System.Drawing.Point(127, 446)
-        Me.lbltime.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.lbltime.Location = New System.Drawing.Point(95, 362)
         Me.lbltime.Name = "lbltime"
-        Me.lbltime.Size = New System.Drawing.Size(106, 40)
+        Me.lbltime.Size = New System.Drawing.Size(85, 32)
         Me.lbltime.TabIndex = 19
         Me.lbltime.Text = "Time :"
         '
@@ -69,10 +67,9 @@ Partial Class FRM_Login
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(24, 486)
-        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label4.Location = New System.Drawing.Point(18, 395)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(108, 40)
+        Me.Label4.Size = New System.Drawing.Size(86, 32)
         Me.Label4.TabIndex = 17
         Me.Label4.Text = "Fecha:"
         '
@@ -80,10 +77,9 @@ Partial Class FRM_Login
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(24, 446)
-        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label3.Location = New System.Drawing.Point(18, 362)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(95, 40)
+        Me.Label3.Size = New System.Drawing.Size(77, 32)
         Me.Label3.TabIndex = 18
         Me.Label3.Text = "Hora:"
         '
@@ -91,10 +87,9 @@ Partial Class FRM_Login
         '
         Me.btnCerrar.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.btnCerrar.Font = New System.Drawing.Font("Comic Sans MS", 13.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnCerrar.Location = New System.Drawing.Point(305, 350)
-        Me.btnCerrar.Margin = New System.Windows.Forms.Padding(4)
+        Me.btnCerrar.Location = New System.Drawing.Point(229, 284)
         Me.btnCerrar.Name = "btnCerrar"
-        Me.btnCerrar.Size = New System.Drawing.Size(109, 50)
+        Me.btnCerrar.Size = New System.Drawing.Size(82, 41)
         Me.btnCerrar.TabIndex = 16
         Me.btnCerrar.Text = "Cerrar"
         Me.btnCerrar.UseVisualStyleBackColor = False
@@ -102,10 +97,9 @@ Partial Class FRM_Login
         'btnLimpiar
         '
         Me.btnLimpiar.Font = New System.Drawing.Font("Comic Sans MS", 13.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnLimpiar.Location = New System.Drawing.Point(176, 350)
-        Me.btnLimpiar.Margin = New System.Windows.Forms.Padding(4)
+        Me.btnLimpiar.Location = New System.Drawing.Point(132, 284)
         Me.btnLimpiar.Name = "btnLimpiar"
-        Me.btnLimpiar.Size = New System.Drawing.Size(121, 50)
+        Me.btnLimpiar.Size = New System.Drawing.Size(91, 41)
         Me.btnLimpiar.TabIndex = 15
         Me.btnLimpiar.Text = "Limpiar"
         Me.btnLimpiar.UseVisualStyleBackColor = True
@@ -114,10 +108,9 @@ Partial Class FRM_Login
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(13, 136)
-        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label2.Location = New System.Drawing.Point(10, 110)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(179, 40)
+        Me.Label2.Size = New System.Drawing.Size(143, 32)
         Me.Label2.TabIndex = 11
         Me.Label2.Text = "Contraseña:"
         '
@@ -125,21 +118,19 @@ Partial Class FRM_Login
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(13, 43)
-        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label1.Location = New System.Drawing.Point(10, 35)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(293, 40)
+        Me.Label1.Size = New System.Drawing.Size(232, 32)
         Me.Label1.TabIndex = 12
         Me.Label1.Text = "Nombre de Usuario:"
         '
         'txtContraseña
         '
         Me.txtContraseña.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtContraseña.Location = New System.Drawing.Point(27, 180)
-        Me.txtContraseña.Margin = New System.Windows.Forms.Padding(4)
+        Me.txtContraseña.Location = New System.Drawing.Point(20, 146)
         Me.txtContraseña.Name = "txtContraseña"
         Me.txtContraseña.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
-        Me.txtContraseña.Size = New System.Drawing.Size(387, 45)
+        Me.txtContraseña.Size = New System.Drawing.Size(291, 38)
         Me.txtContraseña.TabIndex = 13
         Me.txtContraseña.UseSystemPasswordChar = True
         '
@@ -149,20 +140,18 @@ Partial Class FRM_Login
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtNombreUsuario.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtNombreUsuario.Location = New System.Drawing.Point(27, 87)
-        Me.txtNombreUsuario.Margin = New System.Windows.Forms.Padding(4)
+        Me.txtNombreUsuario.Location = New System.Drawing.Point(20, 71)
         Me.txtNombreUsuario.Name = "txtNombreUsuario"
-        Me.txtNombreUsuario.Size = New System.Drawing.Size(387, 45)
+        Me.txtNombreUsuario.Size = New System.Drawing.Size(291, 38)
         Me.txtNombreUsuario.TabIndex = 10
         '
         'btnIngresar
         '
         Me.btnIngresar.BackColor = System.Drawing.Color.Lime
         Me.btnIngresar.Font = New System.Drawing.Font("Comic Sans MS", 13.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnIngresar.Location = New System.Drawing.Point(18, 350)
-        Me.btnIngresar.Margin = New System.Windows.Forms.Padding(4)
+        Me.btnIngresar.Location = New System.Drawing.Point(14, 284)
         Me.btnIngresar.Name = "btnIngresar"
-        Me.btnIngresar.Size = New System.Drawing.Size(150, 50)
+        Me.btnIngresar.Size = New System.Drawing.Size(112, 41)
         Me.btnIngresar.TabIndex = 14
         Me.btnIngresar.Text = "Ingresar"
         Me.btnIngresar.UseVisualStyleBackColor = False
@@ -173,10 +162,9 @@ Partial Class FRM_Login
         'PictureBox1
         '
         Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(435, 25)
-        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(4)
+        Me.PictureBox1.Location = New System.Drawing.Point(326, 20)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(403, 537)
+        Me.PictureBox1.Size = New System.Drawing.Size(302, 436)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 21
         Me.PictureBox1.TabStop = False
@@ -185,29 +173,29 @@ Partial Class FRM_Login
         '
         Me.cboRoles.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cboRoles.FormattingEnabled = True
-        Me.cboRoles.Location = New System.Drawing.Point(20, 272)
+        Me.cboRoles.Location = New System.Drawing.Point(15, 221)
+        Me.cboRoles.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.cboRoles.Name = "cboRoles"
-        Me.cboRoles.Size = New System.Drawing.Size(394, 46)
+        Me.cboRoles.Size = New System.Drawing.Size(296, 40)
         Me.cboRoles.TabIndex = 22
         '
         'Label5
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Comic Sans MS", 16.2!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(13, 229)
-        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label5.Location = New System.Drawing.Point(10, 186)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(70, 40)
+        Me.Label5.Size = New System.Drawing.Size(57, 32)
         Me.Label5.TabIndex = 11
         Me.Label5.Text = "Rol:"
         '
         'FRM_Login
         '
         Me.AcceptButton = Me.btnIngresar
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.PaleGreen
-        Me.ClientSize = New System.Drawing.Size(865, 586)
+        Me.ClientSize = New System.Drawing.Size(649, 476)
         Me.Controls.Add(Me.cboRoles)
         Me.Controls.Add(Me.lbldate)
         Me.Controls.Add(Me.lbltime)
@@ -223,7 +211,6 @@ Partial Class FRM_Login
         Me.Controls.Add(Me.btnIngresar)
         Me.Controls.Add(Me.PictureBox1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
-        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "FRM_Login"

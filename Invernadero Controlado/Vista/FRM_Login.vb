@@ -58,12 +58,12 @@ Public Class FRM_Login
                 Case 2
                     saludo &= "Supervisor"
                     MessageBox.Show(saludo, "Acceso Permitido", MessageBoxButtons.OK, MessageBoxIcon.Information)
-                    Dim frm As New FRM_Super()
+                    Dim frm As New FRM_Supervisor()
                     frm.Show()
                 Case 3
                     saludo &= "Trabajador"
                     MessageBox.Show(saludo, "Acceso Permitido", MessageBoxButtons.OK, MessageBoxIcon.Information)
-                    Dim frm As New FRM_Trabaj()
+                    Dim frm As New FRM_Trabajador()
                     frm.Show()
             End Select
 

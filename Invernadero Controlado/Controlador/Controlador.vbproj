@@ -80,6 +80,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="NCategoria.vb" />
+    <Compile Include="NCliente.vb" />
+    <Compile Include="NPlanta.vb" />
+    <Compile Include="NVenta.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

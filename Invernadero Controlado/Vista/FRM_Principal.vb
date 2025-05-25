@@ -35,7 +35,7 @@
     End Sub
 
     Private Sub btnControlInvernadero_Click(sender As Object, e As EventArgs) Handles btnControlInvernadero.Click
-        Dim formUsuario As New FRM_Control()
+        Dim formUsuario As New FRM_InvernaderoControl()
         formUsuario.Size = New Size(1400, 700)
         formUsuario.StartPosition = FormStartPosition.CenterParent
         formUsuario.ShowDialog(Me) ' ✅ Modal, bloquea el principal

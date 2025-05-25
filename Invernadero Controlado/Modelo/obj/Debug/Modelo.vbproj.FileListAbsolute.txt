@@ -30,3 +30,11 @@ C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.vbproj.G
 C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.dll
 C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.xml
 C:\Users\Usuario\Desktop\Invernadero Controlado\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\bin\Debug\Modelo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\bin\Debug\Modelo.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\obj\Debug\Modelo.Resources.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\obj\Debug\Modelo.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\obj\Debug\Modelo.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Modelo\obj\Debug\Modelo.pdb

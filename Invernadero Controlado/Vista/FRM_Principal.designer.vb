@@ -54,7 +54,7 @@ Partial Class FRM_Principal
         Me.Label1.Size = New System.Drawing.Size(1442, 105)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Sistema de Control del Invernadero"
-        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'ToolStrip1
         '
@@ -84,7 +84,7 @@ Partial Class FRM_Principal
         Me.Label2.Location = New System.Drawing.Point(0, 147)
         Me.Label2.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(1442, 592)
+        Me.Label2.Size = New System.Drawing.Size(1442, 620)
         Me.Label2.TabIndex = 0
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -92,8 +92,8 @@ Partial Class FRM_Principal
         '
         Me.btnUsuario.BackColor = System.Drawing.Color.Transparent
         Me.btnUsuario.BackgroundImage = CType(resources.GetObject("btnUsuario.BackgroundImage"), System.Drawing.Image)
-        Me.btnUsuario.Location = New System.Drawing.Point(212, 175)
-        Me.btnUsuario.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnUsuario.Location = New System.Drawing.Point(212, 149)
+        Me.btnUsuario.Margin = New System.Windows.Forms.Padding(2)
         Me.btnUsuario.Name = "btnUsuario"
         Me.btnUsuario.Size = New System.Drawing.Size(224, 223)
         Me.btnUsuario.TabIndex = 2
@@ -104,9 +104,9 @@ Partial Class FRM_Principal
         '
         Me.Label3.BackColor = System.Drawing.SystemColors.Control
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 19.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(198, 408)
+        Me.Label3.Location = New System.Drawing.Point(169, 374)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(250, 41)
+        Me.Label3.Size = New System.Drawing.Size(305, 41)
         Me.Label3.TabIndex = 3
         Me.Label3.Text = "Gestion de Usuarios"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -115,8 +115,8 @@ Partial Class FRM_Principal
         '
         Me.btnPlantas.BackColor = System.Drawing.Color.Transparent
         Me.btnPlantas.BackgroundImage = CType(resources.GetObject("btnPlantas.BackgroundImage"), System.Drawing.Image)
-        Me.btnPlantas.Location = New System.Drawing.Point(586, 175)
-        Me.btnPlantas.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnPlantas.Location = New System.Drawing.Point(586, 149)
+        Me.btnPlantas.Margin = New System.Windows.Forms.Padding(2)
         Me.btnPlantas.Name = "btnPlantas"
         Me.btnPlantas.Size = New System.Drawing.Size(224, 223)
         Me.btnPlantas.TabIndex = 2
@@ -127,9 +127,9 @@ Partial Class FRM_Principal
         '
         Me.Label4.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 19.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(573, 408)
+        Me.Label4.Location = New System.Drawing.Point(560, 374)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(250, 41)
+        Me.Label4.Size = New System.Drawing.Size(302, 41)
         Me.Label4.TabIndex = 3
         Me.Label4.Text = "Gestion de Plantas"
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -138,8 +138,8 @@ Partial Class FRM_Principal
         '
         Me.btnControlInvernadero.BackColor = System.Drawing.Color.Transparent
         Me.btnControlInvernadero.BackgroundImage = CType(resources.GetObject("btnControlInvernadero.BackgroundImage"), System.Drawing.Image)
-        Me.btnControlInvernadero.Location = New System.Drawing.Point(212, 475)
-        Me.btnControlInvernadero.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnControlInvernadero.Location = New System.Drawing.Point(212, 417)
+        Me.btnControlInvernadero.Margin = New System.Windows.Forms.Padding(2)
         Me.btnControlInvernadero.Name = "btnControlInvernadero"
         Me.btnControlInvernadero.Size = New System.Drawing.Size(224, 223)
         Me.btnControlInvernadero.TabIndex = 2
@@ -150,9 +150,9 @@ Partial Class FRM_Principal
         '
         Me.Label5.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 19.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(188, 737)
+        Me.Label5.Location = New System.Drawing.Point(169, 642)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(268, 41)
+        Me.Label5.Size = New System.Drawing.Size(322, 41)
         Me.Label5.TabIndex = 3
         Me.Label5.Text = "Control del Invernadero"
         Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -161,8 +161,8 @@ Partial Class FRM_Principal
         '
         Me.btnControlAsistencia.BackColor = System.Drawing.Color.Transparent
         Me.btnControlAsistencia.BackgroundImage = CType(resources.GetObject("btnControlAsistencia.BackgroundImage"), System.Drawing.Image)
-        Me.btnControlAsistencia.Location = New System.Drawing.Point(586, 475)
-        Me.btnControlAsistencia.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnControlAsistencia.Location = New System.Drawing.Point(579, 417)
+        Me.btnControlAsistencia.Margin = New System.Windows.Forms.Padding(2)
         Me.btnControlAsistencia.Name = "btnControlAsistencia"
         Me.btnControlAsistencia.Size = New System.Drawing.Size(224, 223)
         Me.btnControlAsistencia.TabIndex = 2
@@ -173,9 +173,9 @@ Partial Class FRM_Principal
         '
         Me.Label6.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 19.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(573, 737)
+        Me.Label6.Location = New System.Drawing.Point(560, 642)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(250, 41)
+        Me.Label6.Size = New System.Drawing.Size(302, 41)
         Me.Label6.TabIndex = 3
         Me.Label6.Text = "Control Asistencia"
         Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -231,7 +231,7 @@ Partial Class FRM_Principal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1442, 739)
+        Me.ClientSize = New System.Drawing.Size(1442, 767)
         Me.Controls.Add(Me.lbldate)
         Me.Controls.Add(Me.lbltime)
         Me.Controls.Add(Me.Label7)
@@ -247,7 +247,7 @@ Partial Class FRM_Principal
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.ToolStrip1)
         Me.Controls.Add(Me.Label1)
-        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "FRM_Principal"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Formulario Principal"

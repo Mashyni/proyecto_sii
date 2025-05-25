@@ -46,3 +46,15 @@ C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlado
 C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.dll
 C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.xml
 C:\Users\Usuario\Desktop\Invernadero Controlado\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\bin\Debug\Controlador.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\bin\Debug\Controlador.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\bin\Debug\Modelo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\bin\Debug\Modelo.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\obj\Debug\Controlador.Resources.resources
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\obj\Debug\Controlador.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\obj\Debug\Controlador.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\obj\Debug\Controlador.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_sii\Invernadero Controlado\Controlador\obj\Debug\Controlador.pdb

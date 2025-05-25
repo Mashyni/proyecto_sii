@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AF06DFC6-A479-4E25-B78F-4C53DA5380F0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Vista.FRM_Login</StartupObject>
+    <StartupObject>Vista.frmPrincipal</StartupObject>
     <RootNamespace>Vista</RootNamespace>
     <AssemblyName>Vista</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -80,10 +80,58 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FRM_Control.designer.vb">
-      <DependentUpon>FRM_Control.vb</DependentUpon>
+    <Compile Include="frmCategoriaAE.Designer.vb">
+      <DependentUpon>frmCategoriaAE.vb</DependentUpon>
     </Compile>
-    <Compile Include="FRM_Control.vb">
+    <Compile Include="frmCategoriaAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategorias.Designer.vb">
+      <DependentUpon>frmCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClienteAE.Designer.vb">
+      <DependentUpon>frmClienteAE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmClienteAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientes.Designer.vb">
+      <DependentUpon>frmClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantaAE.Designer.vb">
+      <DependentUpon>frmPlantaAE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantaAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlantas.Designer.vb">
+      <DependentUpon>frmPlantas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlantas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVentas.Designer.vb">
+      <DependentUpon>frmVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_InvernaderoControl.designer.vb">
+      <DependentUpon>FRM_InvernaderoControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_InvernaderoControl.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FRM_Login.designer.vb">
@@ -98,10 +146,10 @@
     <Compile Include="FRM_Principal.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FRM_Super.designer.vb">
-      <DependentUpon>FRM_Super.vb</DependentUpon>
+    <Compile Include="FRM_Supervisor.designer.vb">
+      <DependentUpon>FRM_Supervisor.vb</DependentUpon>
     </Compile>
-    <Compile Include="FRM_Super.vb">
+    <Compile Include="FRM_Supervisor.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FRM_TipoPlanta.Designer.vb">
@@ -110,10 +158,10 @@
     <Compile Include="FRM_TipoPlanta.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FRM_Trabaj.designer.vb">
-      <DependentUpon>FRM_Trabaj.vb</DependentUpon>
+    <Compile Include="FRM_Trabajador.designer.vb">
+      <DependentUpon>FRM_Trabajador.vb</DependentUpon>
     </Compile>
-    <Compile Include="FRM_Trabaj.vb">
+    <Compile Include="FRM_Trabajador.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FRM_Usuario.designer.vb">
@@ -145,8 +193,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FRM_Control.resx">
-      <DependentUpon>FRM_Control.vb</DependentUpon>
+    <EmbeddedResource Include="FRM_InvernaderoControl.resx">
+      <DependentUpon>FRM_InvernaderoControl.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FRM_Login.resx">
       <DependentUpon>FRM_Login.vb</DependentUpon>
@@ -154,14 +202,14 @@
     <EmbeddedResource Include="FRM_Principal.resx">
       <DependentUpon>FRM_Principal.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FRM_Super.resx">
-      <DependentUpon>FRM_Super.vb</DependentUpon>
+    <EmbeddedResource Include="FRM_Supervisor.resx">
+      <DependentUpon>FRM_Supervisor.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FRM_TipoPlanta.resx">
       <DependentUpon>FRM_TipoPlanta.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FRM_Trabaj.resx">
-      <DependentUpon>FRM_Trabaj.vb</DependentUpon>
+    <EmbeddedResource Include="FRM_Trabajador.resx">
+      <DependentUpon>FRM_Trabajador.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FRM_Usuario.resx">
       <DependentUpon>FRM_Usuario.vb</DependentUpon>

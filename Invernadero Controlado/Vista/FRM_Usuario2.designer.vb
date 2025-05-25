@@ -46,18 +46,21 @@ Partial Class FRM_Usuario2
         Me.GroupBox1.Controls.Add(Me.btnBuscar)
         Me.GroupBox1.Controls.Add(Me.txtBuscar)
         Me.GroupBox1.Controls.Add(Me.Label4)
-        Me.GroupBox1.Location = New System.Drawing.Point(12, 100)
+        Me.GroupBox1.Location = New System.Drawing.Point(9, 81)
+        Me.GroupBox1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(935, 497)
+        Me.GroupBox1.Padding = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.GroupBox1.Size = New System.Drawing.Size(701, 404)
         Me.GroupBox1.TabIndex = 10
         Me.GroupBox1.TabStop = False
         '
         'cboCampo
         '
         Me.cboCampo.FormattingEnabled = True
-        Me.cboCampo.Location = New System.Drawing.Point(64, 50)
+        Me.cboCampo.Location = New System.Drawing.Point(48, 41)
+        Me.cboCampo.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.cboCampo.Name = "cboCampo"
-        Me.cboCampo.Size = New System.Drawing.Size(169, 24)
+        Me.cboCampo.Size = New System.Drawing.Size(128, 21)
         Me.cboCampo.TabIndex = 6
         Me.cboCampo.UseWaitCursor = True
         '
@@ -65,20 +68,22 @@ Partial Class FRM_Usuario2
         '
         Me.dtgListaUsuarios.AllowUserToAddRows = False
         Me.dtgListaUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dtgListaUsuarios.Location = New System.Drawing.Point(38, 115)
+        Me.dtgListaUsuarios.Location = New System.Drawing.Point(28, 93)
+        Me.dtgListaUsuarios.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.dtgListaUsuarios.Name = "dtgListaUsuarios"
         Me.dtgListaUsuarios.RowTemplate.Height = 24
         Me.dtgListaUsuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dtgListaUsuarios.Size = New System.Drawing.Size(852, 350)
+        Me.dtgListaUsuarios.Size = New System.Drawing.Size(639, 284)
         Me.dtgListaUsuarios.TabIndex = 5
         '
         'btnBuscar
         '
         Me.btnBuscar.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.btnBuscar.Font = New System.Drawing.Font("Modern No. 20", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnBuscar.Location = New System.Drawing.Point(464, 42)
+        Me.btnBuscar.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnBuscar.Location = New System.Drawing.Point(348, 34)
+        Me.btnBuscar.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.btnBuscar.Name = "btnBuscar"
-        Me.btnBuscar.Size = New System.Drawing.Size(102, 36)
+        Me.btnBuscar.Size = New System.Drawing.Size(76, 29)
         Me.btnBuscar.TabIndex = 3
         Me.btnBuscar.Text = "Buscar"
         Me.btnBuscar.UseVisualStyleBackColor = False
@@ -86,19 +91,21 @@ Partial Class FRM_Usuario2
         '
         'txtBuscar
         '
-        Me.txtBuscar.Location = New System.Drawing.Point(256, 51)
+        Me.txtBuscar.Location = New System.Drawing.Point(192, 41)
+        Me.txtBuscar.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.txtBuscar.Name = "txtBuscar"
-        Me.txtBuscar.Size = New System.Drawing.Size(155, 22)
+        Me.txtBuscar.Size = New System.Drawing.Size(117, 20)
         Me.txtBuscar.TabIndex = 2
         Me.txtBuscar.UseWaitCursor = True
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Modern No. 20", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(25, 22)
+        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(19, 18)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(160, 22)
+        Me.Label4.Size = New System.Drawing.Size(140, 20)
         Me.Label4.TabIndex = 0
         Me.Label4.Text = "Listado Usuario:"
         Me.Label4.UseWaitCursor = True
@@ -106,9 +113,10 @@ Partial Class FRM_Usuario2
         'inexistente
         '
         Me.inexistente.AutoSize = True
-        Me.inexistente.Location = New System.Drawing.Point(14, 615)
+        Me.inexistente.Location = New System.Drawing.Point(10, 500)
+        Me.inexistente.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.inexistente.Name = "inexistente"
-        Me.inexistente.Size = New System.Drawing.Size(196, 17)
+        Me.inexistente.Size = New System.Drawing.Size(146, 13)
         Me.inexistente.TabIndex = 11
         Me.inexistente.Text = "No se encontraron resultados"
         Me.inexistente.UseWaitCursor = True
@@ -117,10 +125,11 @@ Partial Class FRM_Usuario2
         'btnSalir
         '
         Me.btnSalir.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.btnSalir.Font = New System.Drawing.Font("Modern No. 20", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnSalir.Location = New System.Drawing.Point(845, 603)
+        Me.btnSalir.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnSalir.Location = New System.Drawing.Point(634, 490)
+        Me.btnSalir.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.btnSalir.Name = "btnSalir"
-        Me.btnSalir.Size = New System.Drawing.Size(102, 36)
+        Me.btnSalir.Size = New System.Drawing.Size(76, 29)
         Me.btnSalir.TabIndex = 12
         Me.btnSalir.Text = "Salir"
         Me.btnSalir.UseVisualStyleBackColor = False
@@ -133,26 +142,28 @@ Partial Class FRM_Usuario2
         'Label1
         '
         Me.Label1.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Label1.Font = New System.Drawing.Font("Monotype Corsiva", 48.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 48.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(0, 0)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(969, 112)
+        Me.Label1.Size = New System.Drawing.Size(727, 91)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Lista de los Usuarios"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'FRM_Usuario2
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(969, 642)
+        Me.ClientSize = New System.Drawing.Size(727, 522)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnSalir)
         Me.Controls.Add(Me.inexistente)
         Me.Controls.Add(Me.GroupBox1)
         Me.Cursor = System.Windows.Forms.Cursors.Arrow
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.MaximizeBox = False
         Me.Name = "FRM_Usuario2"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
